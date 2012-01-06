@@ -1,0 +1,6 @@
+<Files ~ "\.txt$">
+	order allow,deny
+	deny from all
+</Files>
+
+Options -Indexes
