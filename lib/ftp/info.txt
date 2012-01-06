@@ -1,0 +1,10 @@
+FTP lib
+
+Name: PHP FTP
+Author: Erwin Kooi
+Downloaded from: PHP Classes
+URL: http://www.phpclasses.org/package/3174-PHP-Client-to-access-FTP-servers-in-pure-PHP-code.html
+Description:
+
+Used for communicating with ftp servers, to download and upload configuration files, statistics, content and such.
+The lib does not require the ftp extension to be installed on the webserver.

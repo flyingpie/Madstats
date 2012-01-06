@@ -1,0 +1,29 @@
+#playerlistcontrols {
+	background-color: #f1d3b8;
+	height: 24px;
+}
+
+#playersearch {
+	float: right;
+}
+
+#pagesize {
+	
+}
+
+#playerlist {
+
+}
+
+#sb-container {
+	position: fixed;
+	margin: 0;
+	padding: 0;
+	top: 0;
+	left: 0;
+	z-index: 999;
+	text-align: left;
+	visibility: hidden;
+	display: none;
+	min-width: 1020px;
+}

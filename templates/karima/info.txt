@@ -1,0 +1,1 @@
+Karima is the second template created for this version of MadStats, with a toplist and a servermonitor in the header and artwork in the background

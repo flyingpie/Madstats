@@ -1,0 +1,106 @@
+a {
+	color: grey;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+
+input[type=submit] {
+	width: 100px;
+}
+
+input[type=text] {
+	border: 1px grey solid;
+}
+
+table {
+	border-collapse: collapse;
+	font-size: 14px;
+	text-align: left;
+	width: 100%;
+}
+
+tr {
+	
+}
+
+th {
+	background-color: #dddddd;
+}
+
+td {
+	background-color: #eeeeee;
+}
+
+td a {
+	color: #666666;
+}
+
+textarea {
+	border: 1px grey solid;
+	height: 60%;
+	min-height: 300px;
+	padding: 5px;
+	width: 100%;
+}
+
+#container {
+	margin: auto;
+	min-width: 700px;
+	width: 80%;
+}
+
+#header, #navigation, #content, #footer {
+	border: 1px grey solid;
+	margin: 5px;
+	padding: 10px;
+}
+
+#header {
+	background-image: url('../images/logo.png');
+	background-repeat: no-repeat;
+	height: 60px;
+}
+
+#navigation {
+	height: 20px;
+}
+
+#content {
+	min-height: 300px;
+	position: relative;
+}
+
+#footer {
+	height: 40px;
+}
+
+.button {
+	float: left;
+	margin-right: 10px;
+}
+
+.serverconfiguration {
+	text-align: left;
+}
+
+.rcon_client {
+	background-color: #cccccc;
+	border: 1px grey solid;
+	padding: 10px;
+}
+
+.txt_editor {
+	background-color: #cccccc;
+	border: 1px grey solid;
+	padding: 10px;
+}

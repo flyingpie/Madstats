@@ -1,0 +1,41 @@
+@import url('madstats.css');
+
+a:active, a:link, a:visited {
+	color: #bb6b00;
+}
+
+a:hover {
+	color: #ffdf44;
+}
+
+body {
+	background-color: #121212;
+	color: #ffaf00;
+	font-family: Arial, sans-serif;
+}
+
+#container {
+	position: relative;
+}
+
+#navigation {
+	border: 1px black solid;
+	height: 44px;
+	position: relative;
+}
+
+#content {
+	border: 1px black solid;
+	margin-top: 2px;
+	position: relative;
+}
+
+#user {
+	position: absolute;
+	right: 0;
+}
+
+.button {
+	float: left;
+	margin: 0 5px;
+}

@@ -1,0 +1,1 @@
+Concept 1 is an experimental template used to try out the features of the MadStats templating engine

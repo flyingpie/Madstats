@@ -1,0 +1,105 @@
+#playerdetails-container {
+	margin: 10px;
+	min-width: 990px;
+	width: 990px;
+}
+
+#playercontrol {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.bar_outline {
+	height: 18px;
+	left: 0;
+	margin: 2px 0;
+	position: relative;
+	top: 0;
+	width: 200px;
+}
+
+.bar_progress, .weapon_progress {
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+}
+
+.bar_text, .ratio_bar_text_ratio, .bar_percentage {
+	font-size: 14px;
+	left: 1px;
+	position: absolute;
+	top: 1px;
+}
+
+.bar_percentage {
+	font-size: 14px;
+	position: absolute;
+	right: 2px;
+	text-align: right;
+}
+
+.ratio_bar_progress {
+	height: 18px;
+	position: absolute;
+	width: 2px;
+}
+
+.ratio_bar_text_ratio {
+	right: 0;
+	text-align: center;
+}
+
+.steam_player {
+	border: 1px grey solid;
+	height: 40px;
+	margin: 2px 0;
+	position: relative;
+}
+
+.steam_player_image {
+	height: 34px;
+	left: 0;
+	margin: 3px;
+	position: absolute;
+	top: 0;
+	width: 34px;
+}
+
+.steam_player_status, .steam_player_status_online, .steam_player_status_ingame, .steam_player_status_offline {
+	height: 40px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 40px;
+}
+
+.steam_player_status_online {
+
+}
+
+.steam_player_status_ingame {
+
+}
+
+.steam_player_status_offline {
+
+}
+
+.steam_game {
+	font-size: 11px;
+}
+
+.steam_game_name, .steam_game_time {
+	height: 20px;
+	overflow: hidden;
+}
+
+.steam_player_text {
+	font-size: 11px;
+	height: 100%;
+	left: 42px;
+	position: absolute;
+	top: 0;
+}

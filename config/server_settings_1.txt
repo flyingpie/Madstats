@@ -1,0 +1,17 @@
+# Server connection settings for the srcds server
+
+SRCDS_HOST 0.0.0.0
+SRCDS_PORT 27015
+SRCDS_GAME cstrike
+SRCDS_PATH /home/srcds/css/cstrike
+
+CONNECTION_METHOD local
+FTP_HOST 0.0.0.0
+FTP_PORT 21
+FTP_USERNAME username
+FTP_PASSWORD password
+
+TEMPLATE steam
+CACHE_TIME 0
+API_PASSWORD apipassword
+LANGUAGE english

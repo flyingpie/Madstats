@@ -1,0 +1,73 @@
+body {
+	background-color: #121212;
+	color: #ffaf00;
+}
+
+#playercontrol {
+
+}
+
+.bar_outline {
+	background-color: #121212;
+	background-repeat: repeat-x;
+	border: 1px #676767 solid;
+}
+
+.bar_progress, .weapon_progress {
+	background-color: #232323;
+	background-repeat: repeat-x;
+	border-right: 1px #cc8c00 solid;
+}
+
+.bar_text, .ratio_bar_text_ratio, .bar_percentage {
+
+}
+
+.bar_percentage {
+
+}
+
+.ratio_bar_progress {
+	background-image: url('../images/progress_bar_progress.png');
+	background-repeat: repeat-x;
+}
+
+.ratio_bar_text_ratio {
+
+}
+
+.serverselector_activeserver {
+	background-color: #1d1d1d;
+}
+
+.serverselector_inactiveserver {
+
+}
+
+.steam_player {
+	border: 1px grey solid;
+}
+
+.steam_player_image {
+
+}
+
+.steam_player_status, .steam_player_status_online, .steam_player_status_ingame, .steam_player_status_offline {
+
+}
+
+.steam_player_status_online {
+	background-color: #4444aa;
+}
+
+.steam_player_status_ingame {
+	background-color: #448844;
+}
+
+.steam_player_status_offline {
+	background-color: #444444;
+}
+
+.steam_game, .steam_player_text {
+
+}
